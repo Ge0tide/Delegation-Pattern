@@ -1,0 +1,5 @@
+/home/cosmin/Documents/Coding/C# Files/Solutions/DelegationPattern/Delegation_Pattern/Delegation_Pattern/bin/Debug/Delegation_Pattern.exe
+/home/cosmin/Documents/Coding/C# Files/Solutions/DelegationPattern/Delegation_Pattern/Delegation_Pattern/bin/Debug/Delegation_Pattern.pdb
+/home/cosmin/Documents/Coding/C# Files/Solutions/DelegationPattern/Delegation_Pattern/Delegation_Pattern/obj/x86/Debug/Delegation_Pattern.csproj.CoreCompileInputs.cache
+/home/cosmin/Documents/Coding/C# Files/Solutions/DelegationPattern/Delegation_Pattern/Delegation_Pattern/obj/x86/Debug/Delegation_Pattern.exe
+/home/cosmin/Documents/Coding/C# Files/Solutions/DelegationPattern/Delegation_Pattern/Delegation_Pattern/obj/x86/Debug/Delegation_Pattern.pdb

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegation_Pattern", "Delegation_Pattern\Delegation_Pattern.csproj", "{5E4F61E4-35E6-4F37-A9C1-3BB6B43FF032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E4F61E4-35E6-4F37-A9C1-3BB6B43FF032}.Debug|x86.ActiveCfg = Debug|x86
+		{5E4F61E4-35E6-4F37-A9C1-3BB6B43FF032}.Debug|x86.Build.0 = Debug|x86
+		{5E4F61E4-35E6-4F37-A9C1-3BB6B43FF032}.Release|x86.ActiveCfg = Release|x86
+		{5E4F61E4-35E6-4F37-A9C1-3BB6B43FF032}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
